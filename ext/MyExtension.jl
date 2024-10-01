@@ -1,0 +1,5 @@
+module MyExtension
+
+    error()
+
+end

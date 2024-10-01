@@ -1,0 +1,10 @@
+name = "PkgExtReproducer"
+uuid = "c9e35707-dd27-4c90-9cbe-f7d8a07ecbdd"
+authors = ["jumerckx <julesmerckx12@gmail.com>"]
+version = "0.1.0"
+
+[weakdeps]
+GraphViz = "f526b714-d49f-11e8-06ff-31ed36ee7ee0"
+
+[extensions]
+MyExtension = "GraphViz"
